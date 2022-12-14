@@ -10,7 +10,7 @@ body {
   display: grid;
   place-content: center;
   font-family: "Big Shoulders Display";
-  background: #b9e9eb;
+  background: #ebe3b9;
   overflow: hidden;
 }
 @media (max-width: 1000px) {
@@ -25,7 +25,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  box-shadow: 41px 41px 82px #a6c3d7, -41px -41px 82px #ffffff;
+  box-shadow: 41px 41px 82px #bebebe, -41px -41px 82px #ffffff;
   padding: 2em;
   transition: all 400ms;
 }

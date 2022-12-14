@@ -1,0 +1,421 @@
+{
+       "target": [
+              {
+                     "name": "Panic Disorder",
+                     "rules": {
+                            "1": "FEELING ANXIOUS",
+                            "2": "CONCENTRATION DISORDER",
+                            "3": "FEELING WORRIED AND UNCONFORTABLE",
+                            "4": "THE FEELING OF LOSING CONTROL",
+                            "5": "TREMBLE",
+                            "6": "SHORTNESS OF BREATH AND A FEELING OF CHOKING",
+                            "7": "GET NUMB",
+                            "8": "THE FEELING THAT SOMETHING BAD WILL HAPPEN",
+                            "9": "CHEST PAIN",
+                            "10": "HOT FLASH",
+                            "11": "FEEL SICKNESS",
+                            "12": "ACROPARESTHESIA",
+                            "13": "BURNING FEELING ON THE FACE AND NECK",
+                            "14": "DIZZINESS ",
+                            "15": "DIFFICULTY TO MOVE"
+                     }
+              },
+              {
+                     "name": "Agoraphobia",
+                     "rules": {
+                            "1": "FEELING ANXIOUS",
+                            "2": "CONCENTRATION DISORDER",
+                            "3": "FEELING WORRIED AND UNCONFORTABLE",
+                            "4": "THE FEELING OF LOSING CONTROL",
+                            "5": "SWEATING",
+                            "6": "FEELING WORRIED IN SOCIAL ACTIVITIES",
+                            "7": "THEY CANT WALK IN CROWD OR WAIT IN QUEUE",
+                            "8": "ESCAPE TO THE ENVIRONMENTS SUCH AS CINEMA THEATER SHOPPING CENTER"
+                     }
+              },
+              {
+                     "name": "Generalized Anxiety Disorder",
+                     "rules": {
+                            "1": "FEELING ANXIOUS",
+                            "2": "CONCENTRATION DISORDER",
+                            "3": "FEELING WORRIED AND UNCONFORTABLE",
+                            "4": "TESTINESS",
+                            "5": "INTERRUPTED SLEEP AND NIGHTMARE AFTER SLEEPING",
+                            "6": "THE FEAR OF GOING TO HAVE A NIGHTMARE AGAIN AFTER YOU HAVE A NIGHTMARE",
+                            "7": "COTTON MOUTH",
+                            "8": "VISUAL IMPAIRMENT",
+                            "9": "A RINGING IN THE EARS",
+                            "10": "POLLAKIURIA",
+                            "11": "INTESTINALDISORDER",
+                            "12": "TIREDNESS"
+                     }
+              },
+              {
+                     "name": "Specific Phobias",
+                     "rules": {
+                            "1": "FEELING ANXIOUS",
+                            "2": "CONCENTRATION DISORDER",
+                            "3": "FEELING WORRIED AND UNCONFORTABLE",
+                            "4": "THE FEELING OF LOSING CONTROL",
+                            "5": "SWEATING",
+                            "6": "THE PERSON ACCEPTS THAT THE FEAR IS EXTREME OR IRRATIONAL",
+                            "7": "EXTREMELY APPARENT AND PERMANENT FEAR CAUSED BY THE PRESENCE OF A SPECIFIC OBJECT OR SITUATION (FLYING HIGH PLACES ANIMALS GETTING INJECTION SEEING BLOOD)",
+                            "8": "AVOID PHOBIC SITUATIONS"
+                     }
+              },
+              {
+                     "name": "Social Anxiety",
+                     "rules": {
+                            "1": "FEELING ANXIOUS",
+                            "2": "CONCENTRATION DISORDER",
+                            "3": "FEELING WORRIED AND UNCONFORTABLE",
+                            "4": "THE FEELING OF LOSING CONTROL",
+                            "5": "SWEATING",
+                            "6": "FEELING WORRIED IN SOCIAL ACTIVITIES",
+                            "7": "THE THOUGHT THAT HE TRIED TO MAKE A GOOD IMPRESSION TO OTHERS AND FAILED",
+                            "8": "EXCESSIVE SHAME WHEN YOU DO THINGS YOU DONT CARE ABOUT WHEN OTHERS DO",
+                            "9": "STRESS IN ACTIVITIES SUCH AS ROMANCE SEX FLIRTATION DIALOGUE WITH FOREIGNERS INTERVIEW"
+                     }
+              },
+              {
+                     "name": "Obsessive Compulsive Disorder (OCD)",
+                     "rules": {
+                            "1": "FEELING ANXIOUS",
+                            "2": "CONCENTRATION DISORDER",
+                            "3": "FEELING WORRIED AND UNCONFORTABLE",
+                            "4": "TESTINESS",
+                            "5": "PERSISTENT UNWANTED THOUGHTS MENTAL IMAGES OR IMPULSES THAT CAUSE DISCOMFORT",
+                            "6": "OBSESSION WITH SYMMETRY",
+                            "7": "ABHORING",
+                            "8": "FEAR OF CONTAGION",
+                            "9": "CLEANING OBSESSION",
+                            "10": "ORDER OBSESSION",
+                            "11": "SKIN PICKING DISORDER",
+                            "12": "BITE NAILS"
+                     }
+              },
+              {
+                     "name": "Post-Travmatic Stress Disorder(PTSD)",
+                     "rules": {
+                            "1": "FEELING ANXIOUS",
+                            "2": "CONCENTRATION DISORDER",
+                            "3": "FEELING WORRIED AND UNCONFORTABLE",
+                            "4": "TESTINESS",
+                            "5": "INTERRUPTED SLEEP AND NIGHTMARE AFTER SLEEPING",
+                            "6": "DISTURBING MEMORIES SEEN IN NIGHTMARES AND CONTINUOUSLY COME TO MIND",
+                            "7": "ANXIETY OF REPEAT TRAUMATIC EVENTS",
+                            "8": "ANXIETY ABOUT REPEATING TRAUMATIC EVENTS AND ASSOCIATED HYPERAROUSAL"
+                     }
+              },
+              {
+                     "name": "new",
+                     "rules": {
+                            "1": "aaaa",
+                            "2": "bbbb",
+                            "3": "cccc",
+                            "4": "dddd",
+                            "5": "eeee"
+                     }
+              },
+              {
+                     "name": "1",
+                     "rules": {
+                            "1": "1",
+                            "2": "1",
+                            "3": "1",
+                            "4": "1",
+                            "5": "1"
+                     }
+              },
+              {
+                     "name": "2",
+                     "rules": {
+                            "1": "2",
+                            "2": "2",
+                            "3": "2",
+                            "4": "2",
+                            "5": "2"
+                     }
+              },
+              {
+                     "name": "vfe",
+                     "rules": {
+                            "1": "vfe",
+                            "2": "vfe",
+                            "3": "vef",
+                            "4": "vfe",
+                            "5": "fec"
+                     }
+              },
+              {
+                     "name": "",
+                     "rules": {
+                            "1": "",
+                            "2": "",
+                            "3": "",
+                            "4": "",
+                            "5": ""
+                     }
+              },
+              {
+                     "name": "",
+                     "rules": {
+                            "1": "",
+                            "2": "",
+                            "3": "",
+                            "4": "",
+                            "5": ""
+                     }
+              },
+              {
+                     "name": "r\u00fcmeysa",
+                     "rules": {
+                            "1": "r\u00fcmeysa",
+                            "2": "r\u00fcmeysa",
+                            "3": "r\u00fcmeysa",
+                            "4": "r\u00fcmeysa",
+                            "5": "r\u00fcmeysa"
+                     }
+              },
+              {
+                     "name": "",
+                     "rules": {
+                            "1": "",
+                            "2": "",
+                            "3": "",
+                            "4": "",
+                            "5": ""
+                     }
+              },
+              {
+                     "name": "",
+                     "rules": {
+                            "1": "",
+                            "2": "",
+                            "3": "",
+                            "4": "",
+                            "5": ""
+                     }
+              },
+              {
+                     "name": "eee",
+                     "rules": {
+                            "1": "e",
+                            "2": "e",
+                            "3": "e",
+                            "4": "e",
+                            "5": "e"
+                     }
+              },
+              {
+                     "name": "",
+                     "rules": {
+                            "1": "f",
+                            "2": "f",
+                            "3": "f",
+                            "4": "f",
+                            "5": "f"
+                     }
+              },
+              {
+                     "name": "",
+                     "rules": {
+                            "1": "",
+                            "2": "",
+                            "3": "",
+                            "4": "",
+                            "5": ""
+                     }
+              },
+              {
+                     "name": "",
+                     "rules": {
+                            "1": "",
+                            "2": "",
+                            "3": "",
+                            "4": "",
+                            "5": ""
+                     }
+              },
+              {
+                     "name": "e",
+                     "rules": {
+                            "1": "t",
+                            "2": "t",
+                            "3": "t",
+                            "4": "e",
+                            "5": "n"
+                     }
+              },
+              {
+                     "name": "b",
+                     "rules": {
+                            "1": "i",
+                            "2": "k",
+                            "3": "t",
+                            "4": "i",
+                            "5": "k"
+                     }
+              },
+              {
+                     "name": "",
+                     "rules": {
+                            "1": "",
+                            "2": "",
+                            "3": "t",
+                            "4": "",
+                            "5": ""
+                     }
+              },
+              {
+                     "name": "a",
+                     "rules": {
+                            "1": "a",
+                            "2": "",
+                            "3": "a",
+                            "4": "",
+                            "5": ""
+                     }
+              },
+              {
+                     "name": "",
+                     "rules": {
+                            "1": "",
+                            "2": "",
+                            "3": "",
+                            "4": "",
+                            "5": "xs"
+                     }
+              },
+              {
+                     "name": "",
+                     "rules": {
+                            "1": "",
+                            "2": "",
+                            "3": "",
+                            "4": "",
+                            "5": "asf"
+                     }
+              },
+              {
+                     "name": "",
+                     "rules": {
+                            "1": "",
+                            "2": "",
+                            "3": "",
+                            "4": "",
+                            "5": "d"
+                     }
+              },
+              {
+                     "name": "",
+                     "rules": {
+                            "1": "",
+                            "2": "",
+                            "3": "",
+                            "4": "ddd",
+                            "5": "ddd"
+                     }
+              },
+              {
+                     "name": "cs",
+                     "rules": {
+                            "1": "cs",
+                            "2": "cs",
+                            "3": "cs",
+                            "4": "sc",
+                            "5": "cs"
+                     }
+              },
+              {
+                     "name": "",
+                     "rules": {
+                            "1": "",
+                            "2": "",
+                            "3": "",
+                            "4": "c",
+                            "5": ""
+                     }
+              },
+              {
+                     "name": "",
+                     "rules": {
+                            "1": "",
+                            "2": "",
+                            "3": "x",
+                            "4": "",
+                            "5": ""
+                     }
+              },
+              {
+                     "name": "",
+                     "rules": {
+                            "1": "",
+                            "2": "cds",
+                            "3": "dcs",
+                            "4": "cds",
+                            "5": "scd"
+                     }
+              },
+              {
+                     "name": "",
+                     "rules": {
+                            "1": "c",
+                            "2": "",
+                            "3": "",
+                            "4": "",
+                            "5": ""
+                     }
+              },
+              {
+                     "name": "",
+                     "rules": {
+                            "1": "",
+                            "2": "",
+                            "3": "",
+                            "4": "",
+                            "5": "cs"
+                     }
+              },
+              {
+                     "name": "",
+                     "rules": {
+                            "1": "",
+                            "2": "",
+                            "3": "",
+                            "4": "",
+                            "5": "cs"
+                     }
+              },
+              {
+                     "name": "",
+                     "rules": {
+                            "1": "",
+                            "2": "",
+                            "3": "",
+                            "4": "",
+                            "5": "efcw"
+                     }
+              },
+              {
+                     "name": "",
+                     "rules": {
+                            "1": "vds",
+                            "2": "vs",
+                            "3": "sdv",
+                            "4": "",
+                            "5": ""
+                     }
+              },
+              {
+                     "name": "sc",
+                     "rules": {
+                            "1": "cs",
+                            "2": "",
+                            "3": "",
+                            "4": "",
+                            "5": ""
+                     }
+              }
+       ]
+}
